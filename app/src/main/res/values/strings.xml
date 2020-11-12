@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomToastExample</string>
+    <string name="javatpoint_custom_toast">javaTpoint custom Toast</string>
 </resources>
